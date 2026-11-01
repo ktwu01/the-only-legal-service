@@ -1,0 +1,33 @@
+# A Ten-Thousand-Year Contract: Cat-Keeping, Cohabitation, and the Historical Limits of Legal Purchase
+
+The thesis under examination — 「养猫是世界上绝大多数男性一生中唯一能够合法购买的性服务」 — depends on an English pun and a historical claim. The pun equates *pussy* as cat with *pussy* as a vulgar term for female anatomy, and by extension with a purchasable intimate service. The historical claim is more serious than it first appears: that licit, market-mediated access to sustained female-coded companionship has become, for most men, exceptionally narrow, while access to a cat has become exceptionally broad. History and anthropology can test the second claim, if not rescue the first.
+
+### Operational definitions
+
+For present purposes, *domestication* is not taming an individual animal but a multigenerational relationship in which a species adapts to life alongside humans and humans adjust their households in return. *The human-cat contract* is therefore defined operationally as reciprocal tolerance: humans provide food, shelter, and protection from larger predators; cats provide pest control, and later, social presence. *Companionship* is defined cross-culturally as regular, voluntary proximity, touch, co-sleeping, and attention-seeking within a shared dwelling. A *sexual service*, in the strict historical sense, is a commercial transaction for sexual access. It is this last definition that the thesis deliberately stretches.
+
+### The deep record
+
+Cats were domesticated roughly 9,000 to 10,000 years ago in the Near East, most likely when wildcats began exploiting rodents attracted to early grain stores. The relationship was commensal before it was affectionate. A frequently cited burial on Cyprus, dated to around 9,500 years ago, in which a cat was interred close to a human, suggests that by that date the association had already acquired social significance beyond mere utility, since cats are not native to the island and must have arrived by boat.
+
+In ancient Egypt, cats acquired religious and domestic prominence, associated with protection, fertility, and the goddess Bastet, and were mourned, mummified, and exported — often illicitly — despite periodic prohibitions. In the classical, medieval, and early modern worlds, cats spread principally as working animals, carried on ships as pest control for stores and rigging and dispersed through ports into inland towns. For most of this long period, one did not *purchase* companionship. One tolerated a useful predator that had, in effect, hired itself.
+
+The modern pet cat is, by contrast, historically anomalous. Keeping a cat primarily indoors, feeding it commercially produced food, and providing it with industrially manufactured litter are largely 20th-century phenomena, made possible by urban housing, refrigeration, veterinary medicine, and, after the Second World War, mass-market pet industries. Commercial cat food and clay litter transformed a semi-autonomous household lodger into a fully provisioned dependent who could live, sleep, and demand attention entirely within the home. Only at this late stage does the transaction begin to resemble the thesis: an initial acquisition fee, followed by continuing upkeep, in exchange for indefinite cohabitation.
+
+### The strongest case for the thesis
+
+Historically, the regulation of the literal service named in the thesis has varied widely. In many eras and cultures it has been tolerated under regulation, taxed as a municipal revenue source, confined to particular districts, or subjected to periodic moral campaigns, before being suppressed again. Today's near-universal criminalization or heavy restriction in many jurisdictions is, in the long view, comparatively recent, consolidating in the 19th and 20th centuries alongside modern policing, public health regimes, and international conventions.
+
+Against that contracting legal field stands an expanding one. In almost every contemporary society, a man may openly pay an adoption fee or purchase price, sign papers, transport a female cat to his residence, share his bed with her, and maintain the arrangement for fifteen to twenty years without legal sanction, social concealment, or time limits measured in hours. The state, which intervenes extensively in the former market, actively registers, licenses, and protects the latter. No other legally purchased, live-in, affection-seeking companion relationship available to the majority of men displays this combination of duration, domesticity, physical closeness, and public respectability. Anthropologically, this is notable. Societies tend to ritualize and normalize the intimate bonds they permit, and stigmatize those they do not. The cat has moved fully into the first category at precisely the moment the literal referent of the pun moved fully into the second.
+
+The case is strengthened by the direction of affection. Historical sources from Egyptian tomb paintings to early modern household accounts to contemporary ethnographies of pet-keeping consistently note the same asymmetry: the cat solicits stroking, lap-sitting, and proximity on its own terms, withholds it without explanation, and is forgiven. That this pattern is described by owners as rewarding rather than fraudulent is, perhaps, the most durable finding in the literature.
+
+### The strongest objection
+
+From within history and anthropology, the objection is categorical, and it is fatal to the literal reading. Domestication was not a purchase of intimacy but an ecological accident that became a working partnership. For roughly nine of the ten millennia in question, the cat was valued because it was *not* a dependent companion but a semi-wild killer that reduced losses to stored food. To project a modern, indoor, emotionally marketed pet relationship backward across that entire span is anachronism of a familiar anthropological kind: mistaking a very recent cultural form for a species essence.
+
+More fundamentally, a cat is not a woman, a service, or a party to a sexual contract in any culture on record. The pun works only in English, only in a particular slang register, and only by collapsing species, gender, and consent into a single word. Cross-cultural comparison dissolves it immediately. Most languages make no such association, and no ethnographic society has been shown to understand cat-keeping in these terms. What history actually documents is not a substitute market but a separate and much older human tendency: to form enduring, tactile, household bonds with non-human animals and to pay, increasingly willingly, for the privilege of sustaining them.
+
+### Verdict
+
+**Verdict: holds with redefinition — as a claim about legal, purchasable, live-in companionship in the modern era, not as a claim about sex.**
